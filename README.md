@@ -12,6 +12,8 @@ This project automates the preparation of Matcha using:
 
 CPEE controls the complete process and starts the required robot programs through HTTP requests.
 
+Here is the video link to watch the entire process for two matchas: https://youtu.be/gr00s2_kUkw 
+
 ## Process Flow
 
 At the beginning, two actions run in parallel:
